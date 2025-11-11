@@ -3,10 +3,13 @@ description: Divorce cron jobs
 home: https://github.com/hmcts/div-cron
 apiVersion: v2
 appVersion: "1.0"
-version: 0.0.23
+version: 0.1.0
 maintainers:
   - name: HMCTS Financial Remedy Team
+keywords:
+  - Job
+  - CronJob
 dependencies:
   - name: job
-    version: 2.2.0
+    version: 2.2.2
     repository: oci://hmctspublic.azurecr.io/helm
