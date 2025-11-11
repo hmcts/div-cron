@@ -1,0 +1,5 @@
+**/*.tgz
+*.iml
+.idea
+ Chart.lock
+ /job/charts/*
