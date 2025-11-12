@@ -1,5 +1,5 @@
 job:
-  image: hmctspublic.azurecr.io/hmcts/div-case-orchestration-service:latest
+  image: hmctspublic.azurecr.io/div/cos:latest
   aadIdentityName: divorce
   keyVaults:
     div:
