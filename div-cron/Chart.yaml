@@ -11,5 +11,5 @@ keywords:
   - CronJob
 dependencies:
   - name: job
-    version: 2.2.2
+    version: 2.2.0
     repository: oci://hmctspublic.azurecr.io/helm
